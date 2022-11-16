@@ -1,5 +1,8 @@
 {
   "ignore": [
     "__tests__"
-  ]
+  ],
+  "execMap": {
+    "js": "node --inspect"
+  }
 }
